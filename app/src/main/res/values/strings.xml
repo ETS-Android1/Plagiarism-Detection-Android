@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Plagiarism Detection</string>
+    <string name="api_root">https://plism.herokuapp.com/api</string>
+</resources>
